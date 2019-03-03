@@ -1,0 +1,23 @@
+Body {
+    text-align: center;
+    color: white;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+#btn {
+    background-color: crimson;
+    color: white;
+    box-shadow: 5px 5px #660000;
+    font-size: 5rem;
+    border: 10px solid silver;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+
+#btn:active {
+    box-shadow: none;
+}
